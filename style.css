@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://static.wikia.nocookie.net/mlp/images/3/34/Meet_the_Ponies_main_crop.png/revision/latest/scale-to-width-down/250?cb=20121226091408");
   text-align: center;
   margin: auto;
    font-family: "Poetsen One", serif;
@@ -9,7 +9,8 @@ body {
 
 h1{
   font-size: 30px;
-  color: white;
+  color: rgb(228, 3, 134);
+  background-color: blue;
 }
 
 #myCanvas {
